@@ -2,6 +2,8 @@
 
 06/04/2020
 
+Astrophysics II homework
+
 solution_2.py solves Tolmann - Oppenheimer - Volkoff equation (https://en.wikipedia.org/wiki/Tolman–Oppenheimer–Volkoff_equation) for quark stars.
 For those stars state equation is given as: P = c^2 / 3 * (rho - rho_0), where rho_0 (central density) in this code was given as 10^15 * (0.5 + 1/7) g*cm^-3
 
